@@ -1,0 +1,8 @@
+pytorch
+torchvision
+fvcore
+tqdm
+torchnet
+pyyaml
+tensorboard
+timm
